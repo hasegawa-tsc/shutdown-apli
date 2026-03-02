@@ -1,0 +1,12 @@
+[project]
+name = "shutdown-apli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "pyinstaller>=6.19.0",
+    "pywin32>=311",
+    "winshell>=0.6",
+]
